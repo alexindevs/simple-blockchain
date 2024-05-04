@@ -2,6 +2,9 @@
 
 This is a simple blockchain implementation created to explore the basic concepts of blockchain networks. The implementation includes classes for blocks, transactions, a blockchain chain, and a wallet.
 
+![image](https://github.com/alexindevs/simple-blockchain/assets/122297619/f862bf66-48a9-48ee-af02-f22b1bc4c8aa)
+
+
 ## Features
 
 - **Block**: Represents a block in the blockchain. Each block contains a nonce, a previous hash, transactions, and a timestamp. The nonce is a random number used in the mining process.
